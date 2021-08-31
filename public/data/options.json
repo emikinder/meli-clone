@@ -1,0 +1,16 @@
+{
+    "items": [
+        "Categorías",
+        "Ofertas",
+        "Historial",
+        "Supermercado",
+        "Moda",
+        "Vender",
+        "Ayuda"
+    ],
+    "user": {
+        "name": "Emiliano",
+        "img": "https://http2.mlstatic.com/D_2X_906670-MLA41510685054_042020-M.webp",
+        "address": "Liniers 321"
+    }
+}
