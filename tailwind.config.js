@@ -7,8 +7,16 @@ module.exports = {
         meli: {
           DEFAULT: '#fff159',
         },
-
       },
+      width: {
+        'w-logo': '8.375rem'
+      },
+      lineHeight: {
+        'extra-xs': '0.1rem',
+      },
+      spacing: {
+        'xss': '0.35rem'
+       }
     },
   },
   variants: {
